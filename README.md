@@ -1,1 +1,1 @@
-# meuprimeiroreposit-rio
+# meuprimeirorepositorio
